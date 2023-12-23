@@ -2,6 +2,13 @@ const cacheName = 'game-cache-v1';
 const assets = [
   '/',
   '/index.html',
+  '/skyshot.html',
+  '/preview_skyshot.png',
+  'in_progress.png',
+  '/icons/icon-192x192.png',
+  '/icons/icon-512x512.png',
+  '/icons/iconsicon-192x192.png',
+  '/icons/iconsicon-512x512.png',
   '/pop2.mp3',
   '/grey.png',
   '/yellow.png',

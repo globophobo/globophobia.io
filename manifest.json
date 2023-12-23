@@ -1,10 +1,10 @@
 {
-    "name": "Pop",
-    "short_name": "Pop",
+    "name": "Globophobia.io",
+    "short_name": "Globophobia.io",
     "start_url": "/",
     "display": "fullscreen",
     "background_color": "#000000",
-    "description": "Pop balloons.",
+    "description": "Arcade games for the sould.",
     "icons": [
       {
         "src": "icons/icon-192x192.png",
